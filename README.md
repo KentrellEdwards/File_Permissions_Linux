@@ -1,4 +1,4 @@
-# File Permissions in Linux
+# File Permissions in Linux <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" align="center" width="50" />
 
 ## Objective
 Demonstrate my experience using Linux commands to manage file permissions. 
